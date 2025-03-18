@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VADTHYAVATHNAVEEN
-- 
+  
 I am a passionate engineer with a deep interest in VLSI, digital design, and Verilog. Over the years, I have developed strong expertise in designing and optimizing digital circuits, with a focus on creating efficient, high-performance solutions using Verilog.
 
 My skills span across RTL design, digital logic synthesis, and verification, where I thrive on taking complex design challenges and delivering scalable and reliable solutions. I am particularly drawn to VLSI because of the endless opportunities to innovate and push the boundaries of chip design.
